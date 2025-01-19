@@ -2,7 +2,7 @@
 
 ## Project "Clock"
 
-I'm studying React and this app to learn how to use class Component and methods componentDidMount and componentWillUnmount
+I'm studying React and this app to learn how to use class Component and methods tick, componentDidMount and componentWillUnmount
 
 ### Language in this project
 
