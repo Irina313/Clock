@@ -1,8 +1,20 @@
-# Getting Started with Create React App
+# Hello! My name is Iryna!
+
+## Project "Clock"
+
+I'm studying React and this app to learn how to use class Component and methods componentDidMount and componentWillUnmount
+
+### Language in this project
+
+React
+
+### This project can be used for educational purposes
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
