@@ -1,0 +1,12 @@
+.App {
+  background-color: gray;
+  min-height: 100vh;
+}
+
+.Time {
+  color: #fff;
+  font-size: 100px;
+  position: absolute;
+  left: 500px;
+  top: 200px;
+}
